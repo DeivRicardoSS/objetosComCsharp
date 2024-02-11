@@ -1,0 +1,14 @@
+C:\Users\deivy\source\repos\Quarto Projeto\bin\Debug\Quarto Projeto.exe.config
+C:\Users\deivy\source\repos\Quarto Projeto\bin\Debug\Quarto Projeto.exe
+C:\Users\deivy\source\repos\Quarto Projeto\bin\Debug\Quarto Projeto.pdb
+C:\Users\deivy\source\repos\Quarto Projeto\obj\Debug\Quarto Projeto.csproj.AssemblyReference.cache
+C:\Users\deivy\source\repos\Quarto Projeto\obj\Debug\Quarto Projeto.csproj.CoreCompileInputs.cache
+C:\Users\deivy\source\repos\Quarto Projeto\obj\Debug\Quarto Projeto.exe
+C:\Users\deivy\source\repos\Quarto Projeto\obj\Debug\Quarto Projeto.pdb
+C:\Users\grautecnico\Desktop\Quarto Projeto\bin\Debug\Quarto Projeto.exe.config
+C:\Users\grautecnico\Desktop\Quarto Projeto\bin\Debug\Quarto Projeto.exe
+C:\Users\grautecnico\Desktop\Quarto Projeto\bin\Debug\Quarto Projeto.pdb
+C:\Users\grautecnico\Desktop\Quarto Projeto\obj\Debug\Quarto Projeto.csproj.AssemblyReference.cache
+C:\Users\grautecnico\Desktop\Quarto Projeto\obj\Debug\Quarto Projeto.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\Desktop\Quarto Projeto\obj\Debug\Quarto Projeto.exe
+C:\Users\grautecnico\Desktop\Quarto Projeto\obj\Debug\Quarto Projeto.pdb
